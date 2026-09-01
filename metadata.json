@@ -1,0 +1,6 @@
+{
+  "name": "Happy 16th Birthday Ojal",
+  "description": "A production-ready, aesthetic 16th birthday tribute website for Ojal (Sports Captain & Drama Queen) with photo gallery, heartfelt letter, and interactive celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
